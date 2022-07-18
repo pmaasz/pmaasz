@@ -1,3 +1,5 @@
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+
 [![Home (Portfolio)](https://img.shields.io/badge/Home-pmaasz.github.io-202f33?logo=github&style=flat-square&logoColor=white&link=https://pmaasz.github.io/)](https://pmaasz.github.io/)
 
 <h4 align="center">Profile stats</h4>
