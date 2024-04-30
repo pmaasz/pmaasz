@@ -28,7 +28,11 @@
 </p>
 
 <h4 align="center">Achievements</h4>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pmaasz&theme=tokyonight&title=MultiLanguage,Stars,Commit,Followers,Repo,PR"></p>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=pmaasz&theme=tokyonight&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
 
 <h4 align="center">Visitor's count</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{pmaasz}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center">
+ <img src="https://profile-counter.glitch.me/{pmaasz}/count.svg" alt="AnhellO :: Visitor's Count" />
+</p>
