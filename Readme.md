@@ -27,10 +27,12 @@
  <a href="https://www.php.net/"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
 </p>
 
+<!--
 <h4 align="center">Achievements</h4>
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=pmaasz&theme=tokyonight&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
+-->
 
 <h4 align="center">Visitor's count</h4>
 <p align="center">
